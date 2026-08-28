@@ -1,0 +1,1060 @@
+RICERCATORE1    ((TC)) beh ↑io sono silvio. intanto: lavoro: con la professoressa,
+--TIMECODE--    00:00:00.150
+                °hh e::: (0.92) grazie per esserti resa disponibile?
+                (0.43) tu: vi=vivi qua a PLACENAME1? 
+                (0.40)
+Gabriella       ((TC)) sì sì
+--TIMECODE--    00:00:11.589
+RICERCATORE1    [ok]
+Gabriella       [adesso mi] sono trasferita: a PLACENAME2.
+                (0.61)
+RICERCATORE1    ok, quindi qua dietro:- ce la fai abbastanza[:,]
+Gabriella                                                   [sì] sì=sì= sì
+RICERCATORE1    senza [problemi,]
+Gabriella             [arrivo in cinque mi]<<laughing>nuti>
+                (0.17)
+RICERCATORE1    ((TC)) però allora sei originaria di::[:]--TIMECODE--    00:00:20.293
+Gabriella                                             [di] PLACENAME3 sì;
+RICERCATORE1    di PLACENAME3 pro[prio]
+Gabriella                        [sì sì sì] sì sì
+RICERCATORE1    ah
+                (0.72)
+Gabriella       uh; non proprio PLACENAME3 centro, però:: un paesino in 
+                provincia: di: PLACENAME3 ((TC)) che si chiama PLACENAME4,
+--TIMECODE--    00:00:30.211
+                (0.43)
+RICERCATORE1    ah
+                (0.30)
+Gabriella       mm non: co~ c'è il ma<<laughing>re>, ((laughs))
+RICERCATORE1    eh beh <<laughing>(me~)> <<laughing>meno male che c'hai 
+                il mare> [((laughs))]
+Gabriella                [sì=sì=sì;]
+                (0.19)
+RICERCATORE1    e hai studiato lì, perché sentivo che 
+                dicevi:[::]
+Gabriella              [s:ì=sì=sì] sì=sì=sì, ho: studiato alla 
+                INSTITUTIONNAME1; ((TC)) lettere moderne;
+--TIMECODE--    00:00:41.830
+                (0.70)
+RICERCATORE1    ah [e con chi] ti sei laureata? 
+Gabriella          [<<p>e:>]
+                (0.20) 
+RICERCATORE1       [che sen]tivo:[:; (.) perché conosco un po' di gente lì]
+Gabriella       [con un profe~]  [s:ì con un professore che si chiama:]
+                PERSONNAME1?
+                (0.28)
+RICERCATORE1    ↑mm; 
+Gabriella       ((TC)) che tra l'altro non so se vi (.) cè se lo conoscete, però
+--TIMECODE--    00:00:50:399
+                comunque ha: fatto anche un manuale sull'evidenziali[tà.]
+RICERCATORE1                                                        [sì,]
+                perché lui poi se ne occupa in ambito: forense anche.
+Gabriella       mm n:on [=non:]=non ↑lo so :; ((TC)) con: con precisione;--TIMECODE--    00:01:01.627
+RICERCATORE1            [cè]
+Gabriella       =però comunque, uh: la: la professoressa mi ha fatto leggere
+                un suo libro che ha pubblicato:, per INSTITUTIONNAME2,
+RICERCATORE1    mm 
+Gabriella       sull'evidenzialità; (0.19) ((TC)) è un: libro abbastanza 
+--TIMECODE--    00:01:10.808
+                introduttivo sul tema;
+                (0.94) 
+                quindi:: sì; (0.25) si occup[a:]
+RICERCATORE1                                [sì=] sì:; avevo letto (xxx) 
+                il suo sull'evidenzialità nel:_uh: (0.21) 
+                ((TC)) in ambito giuridico,
+--TIMECODE--    00:01:20.603
+                (0.40)
+Gabriella       mm
+                (0.75)
+RICERCATORE1    e: però l~=la tua tesi era più di di:
+                (0.94)
+Gabriella       sì [la:]
+RICERCATORE1       [sullo] studio del dialetto ho sentito
+Gabriella       sì=sì=sì=sì=sì
+RICERCATORE1    [(hai) fatto intervi]ste:; ((TC))--TIMECODE--    00:01:30.671
+Gabriella       [sì era:] (0.13) sì;
+                (1.04)
+RICERCATORE1    beh allora:, (0.99) sai cosa vuol dire stare: (0.17)
+                [nel co]ntesto dell'intervista[: e,=però facevi doMANde;]
+Gabriella       [sì=sì]                       [infatti era (           )]
+                (0.38) s[ì]
+RICERCATORE1            [cioè] avevi: ((TC)) avevi più domande: [(       )]--TIMECODE--    00:01:40.754
+Gabriella                                                       [sì (ero)-]
+                (0.31) infatti ero curiosa (0.77) ero curiosa di:: 
+                di sapere cosa si provasse ((laughs)) °h
+RICERCATORE1    dev'essere: [(                     )]
+Gabriella                   [<<laughing>a stare dal>] la parte
+                dell'<<laughing>intervistatore> ((TC)) ((laughs))
+--TIMECODE--    00:01:50.982
+                (0.54) cè dal:[: (.) dell'] intervistata ((laughs))
+RICERCATORE1                  [((                               ))]
+Gabriella       (0.20)
+RICERCATORE1    eheheh (0.69) ci=ci alla fine ci dirai, e: poi:
+                <però <allegro>>; adesso stai studiando: qua, sei al:
+Gabriella       ((TC)) sì; sono all'ultimo anno:: di: lingua letteratura e civiltà
+--TIMECODE--    00:02:00.552
+                italiana, 
+                (0.12)
+RICERCATORE1    ma stai facendo la tes[i: con::]
+Gabriella                             [<<len>sì sì>; con lei]
+RICERCATORE1    la professore[ssa PERSONNAME2]
+Gabriella                    [sì uh (ho) fatto t (.) tutti] gli esami e:
+                (0.48) ((TC)) devo: fare la: la tesi con: con lei;
+--TIMECODE--    00:02:11.100
+RICERCATORE1    e cos'hai scelto questa volta?
+Gabriella       i: processi inferenziali,
+                (0.37)
+RICERCATORE1    ah
+                (0.63)
+Gabriella       quindi: co~ come vengono tratta:ti: ((TC)) i: legami che:
+--TIMECODE--    00:02:21.057
+                (.) ci sono:, diciamo: tra la linguistica e 
+                l'argomentazione per quanto riguarda i processi 
+                inferenziali.
+                (0.37)
+RICERCATORE1    comunque alla fine-
+Gabriella       sì
+RICERCATORE1    ((TC)) non è pura linguistica; hai mes [so anche tu]--TIMECODE--    00:02:30.520
+Gabriella                                              [no]
+RICERCATORE1    un po' di argomenta[zione dentro;]
+Gabriella                          [sì=sì=sì=sì] sì sì argomentaZIOne; 
+                linguistica pragMAtica; insomma: tocca vari: vari punti.
+                (0.51)
+RICERCATORE1    ((TC)) s:ì ho visto che qua bene o male tutti quelli-
+--TIMECODE--    00:02:40.235
+                (0.69) che: (.) fanno qualcosa di linguistica poi: 
+                un tocco di argomentazione lo mettono dentro.
+Gabriella       sì=sì=sì.
+RICERCATORE1    [io non]
+Gabriella       [vabbè ma] È
+RICERCATORE1    non ho mai saputo niente di argomenta↑zione; ((TC)) l'ho scoperta
+--TIMECODE--    00:02:51.859
+                da quando lavoro qua a [PLACENAME1]
+Gabriella                              [sì=sì=sì anche] IO l'ho scoperta:  
+                quando sono: [venuta qua per il master]
+RICERCATORE1                 [anche perché, in ita] lia non te ne parla 
+                nesSUno; di studi dell'argomentaZIOne; ((TC)) non so:,
+--TIMECODE--    00:03:00.302
+Gabriella       sì; è più [un campo: molto fruttu] oso in america 
+RICERCATORE1              [facendo linguistica:,]
+Gabriella       se non sbaglio; [negli stati] uniti;
+RICERCATORE1                    [mhm]
+Gabriella       (0.64) proseguiti da: (1.20) da non tantis:simi anni; penso.
+                (0.54) ((TC)) adesso non ricordo: con: precisione <<laughing>però>
+--TIMECODE--    00:03:11.007
+                (0.52)
+RICERCATORE1    va bene, (0.79) e:: va' veniamo un po' al CLOU (.) poi del: 
+                di questa intervista- ((TC)) che:- (0.33) è legata:: a: (1.36)
+--TIMECODE--    00:03:20.547
+                abbiamo deciso di di: di unire ((laughs)) un po': la: il 
+                contesto della raccolta dei dati, al:: (0.69) ((TC)) alla
+--TIMECODE--    00:03:31.709
+                situazione che stiamo viVENdo; e quindi: se per te: non è::
+                troppo: (0.55) probleMAtico potremmo magari un po': parlare 
+                di: come sono stati questi MEsi ((TC)) duran:=con: uh car °hh uh:
+--TIMECODE--    00:03:41.557
+                la pandeMIa; com'è: cambiata: anche un po' (.) il modo di 
+                vivere le tue giorNAte:- (0.39) ((TC)) eccetera.
+--TIMECODE--    00:03:50.164
+Gabriella       (già lo so) ((laughs)) <<laughing> al[lo~>]
+RICERCATORE1                                         [↓no. sai;] 
+                magari c'è  [una persona che:]
+Gabriella                   [n:o no=no=no=no] no non=[uh]
+RICERCATORE1                                         [ha subi]to: un:
+                (0.42)
+Gabriella       ↑no; [non: non ho su] bito nien:
+RICERCATORE1         [(delle: delle:)]
+Gabriella       (.) nessun particolare trauma; ((TC)) l'unica COsa è che comunque
+--TIMECODE--    00:04:00.774
+                ho: subito come tutti- (0.49) uh:: diciamo questo: 
+                <<len>cambiamento> di: di stile di vita repentino;
+                (0.35) ((TC)) mi è dispiaciuto solamente: °h uh: il fatto di essere
+--TIMECODE--    00:04:10.231
+                venuta in: in un'università in una città differente dal↑la 
+                mia; °h e:: aver: partecipato solamente 
+                ((TC)) ad un semestre in presenza.
+--TIMECODE--    00:04:20.249
+                (0.17)
+RICERCATORE1    eh: (0.22) [((unintelligible))]
+Gabriella                  [e poi comunque sono rimas] ta chiusa 
+                <<laughing>dentro come tutti:> per: (.) un bel po' di 
+                tempo. (0.69) [e::]
+RICERCATORE1                  [quindi:] se pensi un po' alla tua giornata 
+                ↑tipo; (0.35) ((TC)) che avevi: anche prima del: del covid; (0.27)
+--TIMECODE--    00:04:31.134
+                e: la paragoni a: (0.42) una, di adesso- (0.57) che cosa:  
+                è cambiato:,
+                (1.32)
+Gabriella       ((TC)) è: cambiato:: praticamente:
+--TIMECODE--    00:04:40.910
+RICERCATORE1    da studentessa; penso; poi cè, <<laughing>la giornata tipo>
+                <<laughing>è quella di una studentessa> 
+                [<<laughing>in questo caso quindi,>]
+Gabriella       [cè <<len>esatto,>] diPENde; perché: ccomunque ((TC)) c'è una
+--TIMECODE--    00:04:51.181
+                differenza; perché adesso io non sto seguendo più corsi; 
+                (0.43) mentre invece: il semestre scorso- 
+                °h seguivo corsi: ma: con la: didattica online;
+RICERCATORE1    ((TC)) mm
+--TIMECODE--    00:05:01.044
+Gabriella       quindi:, ora come ora: (.) le mie citta~ le: le mie giornate
+                sono molto differenti; perché comunque alla ↑fine; non 
+                seguendo più i corsi; mi sto dedicando: ad altre: (.) 
+                attività, ((TC)) °h e:: comunque sto: mi sto impegnando per
+--TIMECODE--    00:05:11.204
+                scrivere la tesi. (0.12) però comunque: ho notato una 
+                grandissima differenza:; tra: le mie giornate tipo da 
+                studentessa ↑in sede, ((TC)) °h piuttosto che: le giornate: da
+--TIMECODE--    00:05:21.001
+                studentessa davanti a un computer:, mm chiusa in CA:sa.  
+                tutta <<laughing>la giornata;> (0.41) è un po':: 
+                la sensazione che abbiamo vissuto ((TC)) un po' tutti; penso.
+--TIMECODE--    00:05:31.202
+                (0.27)
+RICERCATORE1    sì;
+                (0.24)
+Gabriella       anche: anche V[OI:, anche i professori,]
+RICERCATORE1                  [(anche) (xxx);=sì]
+                sì: anche: fare diDATtica; [ritrovarsi a]
+Gabriella                                  [certo]
+RICERCATORE1    fare la didattica: online in questa maniera, ((TC)) non è:-
+--TIMECODE--    00:05:40.893
+                (1.12) è faticoso da tutte e due le pa rti: [e: h°]
+Gabriella                                                   [↑certo;]
+RICERCATORE1    h°
+                (0.10)
+Gabriella       soprattutto penso da parte dei professori che non riescono 
+                a ricevere un feedback <<laughing>facciale:,> ((TC)) °hh
+--TIMECODE--    00:05:50.643
+                (0.12) non so::_mm 
+RICERCATORE1    non so; per [me::] 
+Gabriella                   [<<laughing>in tempo rea>]le ((laughs))
+                (0.35)
+RICERCATORE1    per ME: è CARne e passione; anche l'inse=anche: la diDATtica 
+                è stare a contatto con le persone:. ((TC)) e farlo attraverso un
+--TIMECODE--    00:06:00.738
+                computer è: veramente: [freddo.]
+Gabriella                              [certo]
+RICERCATORE1    e:: (.) e riduttivo- poi: (1.41) non lo so. (.) [trovo:]::,
+Gabriella                                                       [certo]
+                (0.75)
+Gabriella       anche per[ché viene,]
+RICERCATORE1      ((TC)) [come dire] trovo:- (.) scusa
+--TIMECODE--    00:06:10.276
+Gabriella       ↑no:; no prego prego.
+RICERCATORE1    tro=trovo la motiva↑zione; per quello che ↑faccio; vedendo:
+                (0.80) le persone in preSENza; vedendo quello: (0.13) 
+                com=come r=come ricevono: ((TC)) come: (0.44) come reagiscono:
+--TIMECODE--    00:06:21.666
+                e anche solo per il fatto che sono lì, (0.22) vuol dire 
+                che hanno deciso di dedicarti: (1.29) ((TC)) quell~ (0.32)
+--TIMECODE--    00:06:30.293
+                quell'oretta della loro vita: in quella giornata, per 
+                venire a sentire::: l~ quella le↑zione:; in cui ci sei 
+                anche TU, quin [di:,]
+Gabriella                      [certo]
+RICERCATORE1    probabilmente,=vabè le lezioni le tiene: (0.37) ((TC)) la
+--TIMECODE--    00:06:41.638
+                professoRESsa; io: (0.28) ho collaborato adesso a due corsi,
+                (0.37) ↑però; (.) comunque; (0.20) quest'aspetto di: della 
+                didattica:: a me piace ((TC)) la: l:~ (0.36) il contatto
+--TIMECODE--    00:06:50.567
+                diretto.=mascherine o non masche↑rine non mi interessa; 
+                posso mettere, °h
+Gabriella       [certo]
+RICERCATORE1    [le mas]cherine per il resto della ↑vita; 
+                <<laughing>ma fatemi stare,> °h <<laughing>in mezzo alle 
+                persone,>
+                (0.27)
+Gabriella       ((TC)) certo; anche perché poi: quando: la modalità della didattica
+--TIMECODE--    00:07:00.517
+                a distanza °h non hai: neanche quella:: quell'opzione di 
+                vedere magari tutto il tempo la: la telecamera accesa;
+                (0.54) ((TC)) quindi co↑munque:; non puoi vedere: il viso degli
+--TIMECODE--    00:07:11.692
+                alunni::
+RICERCATORE1    tanti:
+Gabriella       <<laughing>non sai se ti stanno>
+                [<<laughing> ascolTANdo non sai se sono (ancora lì)>]
+RICERCATORE1    [esatto; tanti;=tu sei una che la] tiene 
+                <<laughing>s=(a)c↑cesa o spenta;> ((TC)) °h
+--TIMECODE--    00:07:20.432
+Gabriella       no ↑io pur↑troppo:; comunque come tutti la dobbiamo tenere: 
+                SPENta molto spesso; perché [se no:]
+RICERCATORE1                                [ah:]
+Gabriella       può darsi ch[e si sovraccarica la linea,]
+RICERCATORE1                [per(.)ché: loro chiedono]
+                a volte: [perché: ah ok] 
+Gabriella                [eh esatto esatto] 
+                (0.44) ((TC)) l'audio: e: e: comunque: ogni: ogni tanto si fanno
+--TIMECODE--    00:07:31.186
+                degli interventi quando il: professore lo ri↑chiede;
+                (0.92) però comunque fondamentalmente bisogna tenere: 
+                ((TC)) (.) per prassi penso: la: telecam[era e il micro]fono spenti --TIMECODE--    00:07:41.094
+RICERCATORE1                                            [sì]
+Gabriella       per non creare: problemi di LInea; perché può darsi che
+                (0.76) a: uno dei partecipanti: alla riunione, ((TC)) (.) la
+--TIMECODE--    00:07:51.294
+                linea: (.) mm non vada tanto BBEne; e quindi::- (0.60)
+                si può creare un sovraccarico e dei problemi di rete. 
+                (0.45)
+RICERCATORE1    ma, a parte questo poi: ((TC)) a parte questo aspetto: appunto di:
+--TIMECODE--    00:08:00.842
+                (0.48) di STUdio; (0.19) nelle tue giornate: (0.74) 
+                è cambiato ALtro, risp =magari attività che facevi ↑prima:- 
+                (1.45)
+Gabriella       ((TC)) vabè; sì cioè_mm: (.) n:el senso: mm quando mi dedicavo
+--TIMECODE--    00:08:13.320
+                allo stu[dio prima,]
+RICERCATORE1            [mm]
+                (0.44)
+Gabriella       <<len>comunque: uhm::> (0.42) ((TC)) sì- (0.63) stavo: stavo ↑a
+--TIMECODE--    00:08:22.711
+                casa; studi↑avo; oppure venivo a studiare in bibliote:ca:- 
+                o in aula studio- mentre invece in pandemia ((TC)) mi sono
+--TIMECODE--    00:08:30.637
+                ritrovata: a studiare sempre: (0.64) sempre: a casa: 
+                nello stesso ambiente:, 
+RICERCATORE1    qua, o:
+Gabriella       no no a PLACENAME1
+RICERCATORE1    a PLACENAME1 [(sei sempre sìsì)]
+Gabriella                    [sì sì a PLACENAME1 perché] ((TC)) poi io sono rimasta
+--TIMECODE--    00:08:40.406
+                a PLACENAME1 per: molti mesi;
+                (0.33) perché [comunque c'era]
+RICERCATORE1                  [ah; (.) quindi hai fat]to tutto il periodo: 
+                di: [diciamo di:] grande lockdown:- [non: (.) anche]
+Gabriella           [s:ì sì=sì=sì=sì]               [sì: sì]
+RICERCATORE1    anche quello itaLIAno proprio era più:
+                (0.41)
+Gabriella       ((TC) sì;
+--TIMECODE--    00:08:51.672
+                (0.32) era:
+RICERCATORE1    [più strin]gen[te: esatto.]
+Gabriella       [penso]       [più~ esatto sì]
+                (0.40) no l'ho passato qui perché comunque con:: tutta la 
+                situazione che non si sape:va, il: °h (0.17) ((TC)) comunque:
+--TIMECODE--    00:09:00.992
+                se si aveva il coronaVIrus, se non lo si aVEva, (0.43) mm: 
+                e se magari: fossi scesa: avrei potuto: comunque: (0.28) uh: 
+                contagiare: ((TC)) i miei fami↑liari; che comunque non è che ssono
+--TIMECODE--    00:09:11.018
+                molto: molto floridi. [<<laughing>insomma> ((laughs))]
+RICERCATORE1                          [sì: sì=sì]
+Gabriella       ((laughs)) (0.48) <<p>quindi: questo;>
+RICERCATORE1    ↑però cose- =↑sì allora effettivamente forse ((TC)) rimandendo
+--TIMECODE--    00:09:20.833
+                qua, (.) c'è stato un impatto meno:
+                (0.27)
+Gabriella       s:ì[:]
+RICERCATORE1       [meno] forte rispetto a:: cè noi che: <<laughing>come 
+                dire> i=i giorni delle strade deserte: [e::]
+Gabriella                                              [esatto.]
+                (0.14)
+RICERCATORE1    ((TC)) forse qua non ci sono [mai stati]--TIMECODE--    00:09:31.419
+Gabriella                                    [esatto; esat]to. no invece: noi qui
+                comunque:, °h (.) se: si voleva andare a fine serata a fare 
+                u[na pass]eggiata intorno al lago; 
+RICERCATORE1     [mm]
+Gabriella       ((TC)) senza allontanarsi troppo, solamente per fare una
+--TIMECODE--    00:09:40.522
+                passeggiata a piedi si poteva fare. (0.81) e: tra l'altro:, 
+                mi pa:re che non c'era neanche: l'obbligo di mascherina 
+                all'esterno; [°h]
+RICERCATORE1          ((TC)) [mm,]
+--TIMECODE--    00:09:51.348
+Gabriella       penso che ↑qui non c'era non c'è mai stato tra l'altro.
+                (0.12)
+RICERCATORE1    c'è stato: (1.30) mm: no- p=puro puro no.
+Gabriella       all'esterno [dico negli am]
+RICERCATORE1                [alle: ((TC)) rec]ente=esatto. recentemente
+--TIMECODE--    00:10:00.706 
+                han=l'hanno: esteso un po' di più tipo anche alle cè ai ai 
+                posti interni. tipo le pensiline dei bu:s:-
+Gabriella       certo [nel centro]
+RICERCATORE1          [zone: ester]ne [<<allegro> esatto>]
+Gabriella                      ((TC)) [sì=sì=sì=sì]
+--TIMECODE--    00:10:10.784
+RICERCATORE1    e poi il centro quando c'erano affollamen[ti;] 
+Gabriella                                                [mm]
+                (0.18)
+RICERCATORE1    però no: non c'era niente.
+                (0.19)
+Gabriella       mm; (0.10) sì. (0.32) [qui è stato]
+RICERCATORE1                          [io mi ricordo] che venivo a cercare 
+                la casa qua e:; (0.34) ((TC)) quest'e↑state;
+--TIMECODE--    00:10:20:696 
+                <<laughing, l>questa gente senza le mascherine> cè:
+Gabriella       sì ma an[che in:]
+RICERCATORE1            [do=dov'È] do=dov'È:, <<laughing>il COvid;> 
+                <<laughing>scusate-> [((laughs))]
+Gabriella                            [((laughs))] sì: anche in pandemia era: 
+                abbastanza surreale; ((TC)) la gente che comunque: io,
+--TIMECODE--    00:10:30.440
+                (0.20) all'epoca=adesso abito a: PLACENAME2=<<allegro> 
+                all'epoca.> °hh però, comunque: ab[=abitan(do)]
+RICERCATORE1                                      [eh ormai:]
+                <<laughing>guarda non pensiamoci> <<laughing>a quanto tempo 
+                è già passato>
+Gabriella       ((TC)) <<laughing>sì;> comunque: abitavo in un'altra parte di
+--TIMECODE--    00:10:40.830
+                PLACENAME1:, proprio: mm:: (0.57) s=su una strada che 
+                affacciava: ad un supermercato; (0.14) ((TC)) e quindi vedevi la
+--TIMECODE--    00:10:50.574
+                gente,che si riversava nei supermercati; facevano la fi:la 
+                senza mascherine cè:; (0.52) dicevo: (0.23) cè, poi: in base 
+                a ↑quello che mi raccontavano ((TC)) anche i miei geniTO:ri; della
+--TIMECODE--    00:11:00.395
+                situazione GIÙ: eccetera; sembrava °h sembrava ↑proprio un 
+                altro mondo; (0.50) cè mi è dispiaciuto per LO:ro; comunque 
+                poi quest'estate quando sono ↑scesa giù,(0.40) ((TC)) i miei amici
+--TIMECODE--    00:11:10.713
+                mi hanno raccontato che: il paese sembrava sai nei 
+                t(hr)iller, mentre invece: qua in svizzera è sempre stato: 
+                bene o male popolato.
+                (1.25)
+RICERCATORE1    in↑vece, (0.14) ((TC)) appunto visto che hai parlato dei tuoi
+--TIMECODE--    00:11:20.513
+                genitori:; com'è cambiato il modo: (1.06) di relazio↑narsi; 
+                com'è STAto relazionarsi proprio: in questi periodi, ((TC)) anche
+--TIMECODE--    00:11:30.359
+                di: (0.31) di distanza forzata; (0.52) sia con i 
+                fami↑gliari; sia anche: penso: con gli a↑mici, di 
+                PLACENAME1, con i col↑leghi::- stu↑denti:
+                (0.24)
+Gabriella       ((TC)) certo;=↑allora; diciamo che: con i miei genitori:,
+--TIMECODE--    00:11:40.725 
+                fondamentalmente nei periodi in cui ero costretta 
+                °h a rimanere qui:, in videochiamata; (0.73) ((TC)) e: (.)
+--TIMECODE--    00:11:50.377
+                tramite messaggi. (0.19) mentre invece: con i:
+                (.) <<all>colleghi dell'università:,> i: i contatti 
+                inevitabilmente si sono: si sono in interrotti; 
+                (0.41) ((TC)) a meno che magari:: non si discuteva di qualcosa
+--TIMECODE--    00:12:01.354
+                dell'università nella chat di gruppo. (0.32) però
+                comunque: mm:: è stato: diciamo: ((TC)) un taglio abbastanza
+--TIMECODE--    00:12:10.897
+                netto; °h però: comunque ci son stati colleghi con cui 
+                avevo: intessuto un rapporto un po' più particoLAre nel: 
+                mm (0.13) nel corso del primo semestre, ((TC)) °h e quindi
+--TIMECODE--    00:12:21.626
+                comunque: abbiamo continuato a frequentarci nonostante le: 
+                le difficoltà eccetera; e poi ogni tanto ci: frequentiamo:, 
+                organizziamo: ((TC)) °h a, (.) casa e:: (.) eccetera °h
+--TIMECODE--    00:12:30.563
+                (0.64) e:: ↑niente; però comunque: mm:::
+                (0.16) mi è dispiaciuto anche il f:atto: di non aver 
+                creato- ((TC)) t:antissime amicizie: nel primo ↑semestre- perché
+--TIMECODE--    00:12:41.249
+                comunque forse- °h un:: (.) un solo semestre non è
+                abbastanza per:: (0.47) ((TC)) creare molte relazioni ec[cetera;]--TIMECODE--    00:12:50.709
+RICERCATORE1                                                            [(eh)=sì:]
+                (0.21) [tu, tu] hai fatto: avendo fatto SOlo-
+Gabriella              [ho]
+                esat[to esatto; io ero comunque ↑nuo:va esatto.]
+RICERCATORE1        [(avevi) la necessità di:]
+                (0.48) 
+Gabriella       esatto; (1.08) ((TC)) però comunque: ho: conosciuto delle: delle
+--TIMECODE--    00:13:00.445
+                persone sempre: all'interno del nostro corso che comunque 
+                alla ↑fine; (0.31) continuo a frequentare: tutt=tutt'ora.
+                (0.20) però non sono venti persone: ((TC)) n:: sono ↑due; quindi:
+--TIMECODE--    00:13:11.155
+RICERCATORE1    ma sono anche pochi; gli stude:nti; 
+                comunque.= [eh: iscritti quindi:]
+Gabriella                  [s:ì; (.) in effetti, sono anche] pochi; 
+                (0.35) sì-
+                (1.18)
+RICERCATORE1    e i tuoi: <<laughing>come: ((TC)) se la cavavano con
+--TIMECODE--    00:13:21.248
+                lo strumento: della videochiamata?>
+                (0.92)
+Gabriella       allora: mm: ↑dipende; perché comunque i miei non è che sono 
+                molto bbravi ((TC)) a <<laughing>usare:> ((laughs)) INternet e roba
+--TIMECODE--    00:13:30.656
+                varia; hanno iniziato: a: ad usare whatsapp, proprio penso 
+                in: pandemia, (0.91) e:: poi: al massimo: ((TC)) google duo-
+--TIMECODE--    00:13:41.485
+                (1.01) ma proprio in: casi estremi ; 
+RICERCATORE1    (immagino)
+Gabriella       che: non prendeva: cè che non funzionava whatsapp e quindi: 
+                ((TC)) li dovevo chiamare su google duo.
+--TIMECODE--    00:13:50.601
+                (2.06)
+RICERCATORE1    va bene, (1.71) e::: (1.22) invece:: (0.47) ((TC)) un cambiamento
+--TIMECODE--    00:14:00.976
+                positivo; potremmo dire:; rispetto:- (0.57) a:: appunto alla
+                situazione prima: del: del ↑covid. (0.84) ((TC)) durante,
+--TIMECODE--    00:14:10.273
+                (.) il_uh:: gli ultimi MEsi; e poi anche: magari 
+                anche=ancora adesso, hai: sviluppato nuovi interessi:, nuove 
+                attività che prima non facevi::, ((TC)) nuove: letTUre:, nuove,=sai
+--TIMECODE--    00:14:21.142
+                ci sono quelli che si sono messi a fare i corsi 
+                <<laughing>di YOga:,> <<laughing>su youTUbe:> eh::
+                (0.41) <<laughing>chi l'aerobica da CAmera: uh:, >  
+                (0.14)
+Gabriella       ((TC)) e:hm allora lo y~ (-) yoga, (0.20) ho provato a farlo
+--TIMECODE--    00:14:30.589
+                su youtube::-
+RICERCATORE1    [ah ecco ecco (xxx) <<laughing>ho col]PIto (lì lì)>
+Gabriella       [(ma durante) la prima fase di pandemia però] 
+                  [peRÒ dopo un:]
+RICERCATORE1      [<<laughing>(vedi) ((laughs))]
+Gabriella       dopo la prima volta: ((TC)) ho: abbandonato insomma; mm:
+--TIMECODE--    00:14:40.357
+                s:portivamente: diciamo che: non sono::- (-) una:-
+                (0.35)
+RICERCATORE1    no ma anche OLtre; nel senso ho fatto qualche eSEMpio 
+                però, [ò: anche sai non so-]
+Gabriella             [<<all>sì=sì=sì=sì=sì=sì=sì>] (0.14) ((TC)) °h ↑no uh
+--TIMECODE--    00:14:51.697
+                interessi? fondamen↑talmente::- (.) n::o, perché:- 
+                comunque ero impegnata molto con lo studio nonostante tutto;
+                (.) °h quindi comunque: ((TC)) uhm: ho s~ focalizza:to la: la mia
+--TIMECODE--    00:15:01.827
+                attenzione: sempre sullo studio; °h può sembrare triste, 
+                però è: è così; °h poi:: ((TC)) sul mangiare,
+--TIMECODE--    00:15:11.282 
+                <<laughing>sfogando la mia> ((laughs))
+RICERCATORE1    <<p>Ecco>
+Gabriella       ((laughs)) cucinando:, ho imparato a cucinare:, 
+                (0.31) ho: iniziato a fare: ricette che: ((TC)) non avevo mai fatto
+--TIMECODE--    00:15:20.228
+                prima, (1.06) e nniente;=poi: comunque ho passato il tempo 
+                con il mio GATto, (0.47) che ho:
+                (0.26)
+RICERCATORE1    [di PLACENAME1?]
+Gabriella       [sì sì;] sì sì; (1.40) con il: mio gattino di nome ugo, 
+                (0.31) ((TC)) ((laughs)) e:: ↑e nniente; poi comunque io qua:
+--TIMECODE--    00:15:32.480
+                (0.29) sto con: il: (.) mio ragazzo. (0.54) quindi:
+                comunque:: ((TC)) ogni ttanto la sera: mm: (.) uscivamo:,
+--TIMECODE--    00:15:41.990
+                a fare una passeggiata eccetera; (0.12) °h non ho
+                sviluppato grandi interessi: ((TC)) diciamo: diversi da: da
+--TIMECODE--    00:15:50.310
+                quelli che avevo prima; (0.69) e: adesso per esempio
+                però, che non sto frequentando più i corsi, °h per esempio 
+                sto::_mm: (.) sto: ((TC)) il martedì e il mercoledì:, °h uh sto
+--TIMECODE--    00:16:01.004
+                facendo la volontaria presso:: un archivio, (.) uh: che:
+                si trova a PLACENAME5; (0.75) quindi:: ((TC)) per: capire se per
+--TIMECODE--    00:16:10.473
+                esempio il mestiere di: archivista: fa pper me o comunque: 
+                <<p>(non so)> (1.26) quindi: (.) questi sono: 
+                (0.22) [queste sono <<laughing>(le evoluzioni)]
+RICERCATORE1           [e, (.) a questo:] ((TC)) a=a questo archivio saresti
+--TIMECODE--    00:16:21.477
+                approdata: (0.34) indipendentemente dal covid, secondo te?
+                (0.43)
+Gabriella       uhm:: n:o; (0.57) cioè, (0.17) uh: ODdio; ((TC)) non lo so.
+--TIMECODE--    00:16:30.895
+                pperché: mm: (.) io: comunque ho aderito nel: (0.73)
+                secondo semestre, no nel terzo semestre, °h ho aderito a un 
+                progetto che: ((TC)) ha::_m diciamo: e=es=che è stato elaborato
+--TIMECODE--    00:16:40.479
+                qui all'INSTITUTIONNAME3?
+RICERCATORE1    ah
+                (0.10)
+Gabriella       uh: del: MENtoring; (0.82) uhm (0.20) e quindi: uh ho::: mm:
+                (0.91) ((TC)) mi è stata: mi è stata: affidata: una ↑mentor- che
+--TIMECODE--    00:16:50.776 
+                comunque mi: mi consiglia ogni tanto di provare: nuove 
+                strade:; °h e lei conosceva i: dirigenti del: ((TC)) di questo
+--TIMECODE--    00:17:01.445 
+                archivio- °h e: mi ha proposto di fare un po' di 
+                volontariato llì; e ci sono: ci sono andata.
+                (0.29) comunque: (è) un progetto che è partito 
+                dall'università. 
+RICERCATORE1    [mm,]
+Gabriella       [ades]so: (.) °h penso che: ((TC)) non dipenda dal fatto: che:
+--TIMECODE--    00:17:11.877
+                c'era: la pandemia oppure no; comunque: (0.61) ci sarebbe 
+                stata quest'opportunità <<p>penso.> (0.66) ((TC)) <<p>non lo so.>
+--TIMECODE--    00:17:20.372
+                (6.85)
+RICERCATORE1    e: hai sentito in particolare la mancanza di qualcuno?
+                (0.52) ((TC)) in questi: mesi, o::
+--TIMECODE--    00:17:31.587
+                (0.82)
+Gabriella       eh: [s::]
+RICERCATORE1        [ti sei senti]ta: (0.41) autos=abbastanza 
+                <<laughing>autosuffi↑ciente;> avendo almeno,
+                appunto;=penso che il tuo ragazzo [fosse qua quindi]
+Gabriella                                         [sì=sì=sì=sì]
+RICERCATORE1    ((TC)) non eri comunque completamente-
+--TIMECODE--    00:17:41.179
+Gabriella       NO; [non ero~]
+RICERCATORE1        [per fortuna];
+                (0.19)
+Gabriella       certo; certo;
+RICERCATORE1    trovarsi lì, in una città chiusa,
+                (0.19)
+Gabriella       certo; (↑ah va)bbè; comunque: la mancanza delle nonne:  
+                ((TC)) dei:[: comunque dei miei fami]gliari:,--TIMECODE--    00:17:50.452
+RICERCATORE1               [<<p>(                 )>]
+                (0.60)
+Gabriella       degli amici: che: comunque: ho: giù, (.) a PLACENAME3,
+                (0.55) ho: comunque sentito questa: questa mancanza sì:, 
+                ((TC)) (.) giustamente;=però (0.56) uh: comunque in estate poi
+--TIMECODE--    00:18:01.798
+                sono scesa per: un: mesetto:; <<p>e:> (0.56) ho sentito
+                la mancanza del ma:re
+                ((TC)) ((laughs))
+--TIMECODE--    00:18:10.932
+RICERCATORE1    [<<laughing>con questo bel]lissimo LAgo> [((laughs))]
+Gabriella       [sono andata a fare]                     [((laughs))] 
+                ho fatto una volta il:: (0.39) il bagno nel lago di
+                PLACENAME1; ma era [melm]<<laughing>oso>
+RICERCATORE1                       [sì?]
+Gabriella       ((laughs)) [((laughs))]
+RICERCATORE1               [oah] ((TC)) non sO io <<laughing>vedendolo:
+--TIMECODE--    00:18:21.315
+                non mi ha mai ispirato> <<laughing>finora e:> 
+                (0.20)
+Gabriella       no è è:
+                (0.14)
+RICERCATORE1    il lago:
+                (0.22)
+Gabriella       dipende se si è abituato a fare il bagno nel lago, oppure 
+                al mare. ((TC)) cioè se non: sei abituato secondo me ad andare al
+--TIMECODE--    00:18:30.694
+                ma:re, (0.82) uh: il lago non ti sembra: (0.17) mm una
+                cosa così brutta. insomma. [mentre invece]
+RICERCATORE1                               [ma io ho fatto] tutti: sia: 
+                ((TC)) perché lì vicino a me c'era il lago maggiore, (0.49) ma ho
+--TIMECODE--    00:18:40.665
+                fatto anche il mare però: (0.51) ↑beh; non c'è paragone 
+                con il mare di giù eh [eh non: non si]
+Gabriella                             [((laughs)) no perché]
+RICERCATORE1    può: quello non si può dire ((TC)) neanche:[:]--TIMECODE--    00:18:50.924
+Gabriella                                                  [<<laughing>sì>]
+RICERCATORE1    e: e la liguria è un po': <<laughing> è il lago di 
+                PLACENAME1 eh> probabilmente; però, non lo so non mi 
+                ispira <<laughing> molto:> (0.28) pulizia questo lago
+                a volte quando lo vedi lì, (0.49) ((TC)) passando sul lungo lago
+--TIMECODE--    00:19:01.456
+                e: ci vedi dentro di tutto.
+Gabriella       eh vabbè guarda che anche: il: il mare giù ogni tanto:: 
+                presenta::- (0.32) ((TC)) dei detriti: un po' ambigui;
+--TIMECODE--    00:19:10.809
+                (.) che non ci dovrebbero essere; però, ci sono; (0.34)
+                °h ma penso in: mm: in <<len>qualsiasi> mare; a pparte nel 
+                mare della sardegna. bo,
+RICERCATORE1    ((TC)) (no: ma infatti) io cerco sempre di andare in posti lontani
+--TIMECODE--    00:19:21.327
+                dalle grandi città [per evitare]
+Gabriella                          [<<all>sì=sì=sì=sì=sì=sì>]
+RICERCATORE1    <<laughing>gli scaricamenti> [e:]
+Gabriella                                    [a] PLACENAME3 ci sono poche 
+                spiaggette; che sono ancora pulite.
+RICERCATORE1    [eh:]
+Gabriella       [poi per la] ((TC)) maggior parte:: <<p>no.> =↑bisogna conoscere i
+--TIMECODE--    00:19:30.273
+                posti [insomma per trova] re l'acqua pulita; (0.73) mm::
+RICERCATORE1          [eh infatti]
+                (0.21)
+Gabriella       però: comunque ormai l'inquinamento è:: alle stelle. 
+                quindi.
+                (0.63)
+RICERCATORE1    ((TC)) vabè quindi hai fatto quest'esperienza: del °h del: dal
+--TIMECODE--    00:19:41.719
+                covid porti a casa il bagno nel nel lago di PLACENAME1,
+                ((laughs))
+Gabriella       <<laughing>sì melmoso> [((laughs))]
+RICERCATORE1                           [((laughs))]
+                (0.81)
+Gabriella       ((TC) )[<<laughing>eh vabè>]--TIMECODE--    00:19:52.312
+RICERCATORE1           [va be:]ne, (1.20) a che punto sia:mo-
+                (2.55) ↑eh ma↑gari:: (1.19) ((TC)) possiamo parlare,
+--TIMECODE--    00:20:00.935
+                (.) cambiamo un po': ↑tema visto anche che: (1.29) uh:::
+                (1.70) (xxx) (1.79) ((TC)) andiamo verso: ve=verso anche qualcosa
+--TIMECODE--    00:20:11.210
+                che magari hai studiato; quindi- (0.23) il::_uh:
+                (0.21) il (.) periodo della pandemia:, appunto è stato:: 
+                ((TC)) a~ p~ par=parallelamente: (0.76) uh:: (0.81) il p=il pe
+--TIMECODE--    00:20:20.816
+                questo periodo è stato caratterizzato anche da: da 
+                moltissime: (0.30) informazioni che:: ((TC)) ci sono arrivate; =che
+--TIMECODE--    00:20:31.852
+                circolavano; (0.38) è (.) cam↑biato qualcosa; 
+                (0.40) ris:petto a ↑prima; (.) nel tuo modo di- 
+                (1.04) uh::: ((TC)) (.) OTtenere notizie:- (0.46) valutare le
+--TIMECODE--    00:20:41.094
+                notizie:- leggere:- informarti attraverso determinati 
+                canali:- (0.54) [pri~ che]
+Gabriella                       [certo]
+RICERCATORE1    prima non uSAvi ((TC)) che~ o: che: (0.17) adesso hai abbandonato
+--TIMECODE--    00:20:50.853
+                eccetera.
+                (0.14)
+Gabriella       certo; diciamo che l'informazione primaria noi giovani 
+                ormai la: (0.70) ma penso: un po' tutti non: non solamente 
+                ((TC)) noi giovani oramai la riceviamo tramite internet.
+--TIMECODE--    00:21:00.916
+                (0.57) perché: sono: non tutte le persone: guardano la 
+                televisione come si guardava prima. (0.92) e: mm:
+                ((TC)) m:agari: nei telegiornali le informazioni penso che siano
+--TIMECODE--    00:21:10.696
+                un po' più affidabili: mentre invece su internet_uh: 
+                ovviamente le:=le fonti non sem=non sono sempre: ((TC)) <<allegro>
+--TIMECODE--    00:21:20.665
+                non sono sempre affidabili.>= bisogna- (0.54) sempre
+                fare: fare attenzione; (0.34) per quanto riguarda:
+                le informazioni su internet, io le prendevo sempre:
+                e le prendo tuttora ((TC)) sempre con le pinze; (0.55)
+--TIMECODE--    00:21:30.627
+                e cerco: di informarmi su: su siti affiDAbili-  
+                e che ormai: °h uh:_mm: sono: sono conosciuti per la loro: 
+                ((TC)) per la loro affidabiliTÀ, oppure cerco di guardare: °h un
+--TIMECODE--    00:21:40.977
+                telegiornale in tivù::: (0.41) che:_mm probabilmente è più 
+                affidabile di un articolo scritto su internet ((TC)) da chissà
+--TIMECODE--    00:21:50.863
+                CHI; (0.59) <<p>e::> quindi::
+Ambient noise   ((noise))
+                (1.39)
+Gabriella       sì, (0.11) che si sono dette tante di quelle cose durante 
+                la: la pandemia, che:: non si sapeva:: (0.84) ((TC)) a chi dare
+--TIMECODE--    00:22:02.266
+                retta insomma.=no, (0.88) e: quindi: sì; (1.04) mm:
+                (0.16) il periodo della pandemia: (.) °h ha fatto capire 
+                ((TC)) che comunque girano un sacco un sacco di frottole in giro;
+--TIMECODE--    00:22:10.949
+                (0.20) e che non bisogna credere a tutto quello che ti 
+                dicono. (1.20) ↑però: (1.91) <<laughing>bisogna,>
+                ((TC)) ((laughs)) °h però:_mm diciamo che ho visto l'altro: l'altro
+--TIMECODE--    00:22:20.321
+                giorno un servizio sulle iene,
+                (0.21)
+RICERCATORE1    m[m,]
+Gabriella        [NO] l'altra giorn~ l'altra: l'altra settimana, °h 0.25) 
+                uhm:: (che:: non mi ricordo dove (0.54) ((TC)) mm: tipo:
+--TIMECODE--    00:22:32.119
+                in toscana, (0.46) uhm: una: un s: (0.85) un una mandria
+                di persone, (0.63) uh senza mascherina, ((TC)) protestava,
+--TIMECODE--    00:22:41.680 
+                (0.20) perché diceva che il covid era: tutta una frottola 
+                inventata:: (0.56) da: da: dai potenti:, e rroba del 
+                genere; (0.48) ((TC)) era assurdo come cosa (0.95) ovviamente
+--TIMECODE--    00:22:51.721
+                non bisogna uhm: stare a ssentire <<laughing>neanche a 
+                lloro> (0.37) ((laughs)) cè: (1.29) ↑però ↑sai magari
+                loro ((TC)) hanno:=hanno ricevuto una cattiva informazione- hanno
+--TIMECODE--    00:23:01.136
+                creduto (0.58) alle: i: <<len>informazioni> che (.) 
+                circolavano ↑in gi:ro:- per esempio non lo so ((TC)) il COvid è:
+--TIMECODE--    00:23:10.320
+                una: (0.48) è una pandemia CHImica; che è STAta:: uhm: 
+                getTAta così sul MONdo dalla cina. per dire.
+                (0.34) hanno creduto a que↑sta COsa- ((TC)) e si è: °h e si è:
+--TIMECODE--    00:23:20.840
+                creata questa bolla di disi (.) di disinformazione:: 
+                enorme. (0.91) comunque ha i suoi seguaci. (0.82) 
+                <<p>quindi: bisogna ((TC)) sempre fare attenzione;>
+--TIMECODE--    00:23:30.886
+                (1.85)
+RICERCATORE1    qualcuno vicino a te lo: metteresti: (1.34) all'interno
+                della bolla? 
+                (0.62)
+Gabriella       n:o 
+RICERCATORE1    ((TC)) no;
+--TIMECODE--    00:23:40.371
+Gabriella       fortunatamente no, se no <<laughing>mi discosterei> 
+RICERCATORE1    [((laughs))]
+Gabriella       [((laughs))]
+RICERCATORE1      [<<laughing>no vabè magari:>] 
+Gabriella         [((laughs))] <<laughing>no: n[o]>
+RICERCATORE1                                   [do]vresti iniziA:re un 
+                percorso: di <<laughing>educazione argomentaTIva> 
+                ((TC)) <<laughing>visto che:>
+--TIMECODE--    00:23:50.330
+                [<<laughing>è ciò di cui ti occupi anche>]
+Gabriella       [no no no (.) non ci tengo]
+RICERCATORE1      [((laughs))]
+Gabriella         [((laughs))]
+                (0.14) <<laughing>non voglio avere a che fare> ((laughs)) 
+                con i no vax e: con:: i: (0.88) eh i no alla
+                mascherina insomma;
+                (1.27)
+RICERCATORE1    ((TC)) va bene, (1.90) e::: (3.38) vabè;=un po' l'ab=ne abbiamo già
+--TIMECODE--    00:24:02.988
+                ((TC)) parlato; però, magari visto che comunque:: (0.50)
+--TIMECODE--    00:24:11.652
+                uh:::_mm:: (2.58) se ere=i: se eri comunque qua a 
+                ↑PLACENAME1; (1.34) ((TC)) com'è stata: affrontata poi
+--TIMECODE--    00:24:23.336
+                concretamente, (0.75) e::: la:_uhm:: (1.01) ((TC)) la pandeMIa;
+--TIMECODE--    00:24:30.752
+                i problemi legati: e come sono stati affrontati i problemi 
+                legati al covid, (0.35) nel nel: nella zona in cui vivevi;
+                (0.34) hai visto delle diffeRENze::, (0.29) ((TC)) ci sono:
+--TIMECODE--    00:24:41.643
+                (.) hai notato: (0.40) magari:: qualcosa di NUOvo; =che 
+                prima non c'era: delle iniziative: spesso sono sorte: anche 
+                ad esempio ((TC)) tra i cittaDIni:, a livello dei quarTIEri:,
+--TIMECODE--    00:24:50.891
+                (0.68) o:: magari ne sei stata anche tu coinvolta 
+                attivamente?
+                (1.36)
+Gabriella       n:o: (0.20) cè perché io: ((TC)) nel:_uh: nel peri↑odo del: del
+--TIMECODE--    00:25:00.892
+                coronavirus; come ho detto, comunque ero: qui a PLACENAME1; 
+                e:: alla fine:, quello che ho notato è: comunque: 
+                l'apparente libertà ((TC)) che:[:] e che c'era comunque--TIMECODE--    00:25:11.326
+RICERCATORE1                                   [<<p>mm>]
+Gabriella       in giro insomma; (0.58) ↑mm ovviamente nei luoghi 
+                ris:tretti ma↑scheri:na:- luoghi chiu:si, °h e ppoi: 
+                comunque: ((TC)) all'esterno si poteva andare senza mascheri:na:-
+--TIMECODE--    00:25:20.782
+                (0.46) e:: non ho fatto attenzione molto ai movimenti che si 
+                erano: venuti a creare; =non me ne sono interessata 
+                particolarmente; (0.60) ((TC)) ho deciso di restare:: a ccasa
+--TIMECODE--    00:25:31.419 
+                <<laughing>quando potevo> <<laughing>e bbasta.> (0.12)
+                ((laughs))
+                (1.24)
+RICERCATORE1    <<p>giusto:>
+Gabriella       ((laughs))
+                (0.39)
+RICERCATORE1    e:=E: era la giusta parte da fare co[munque; an] ((TC)) che da---TIMECODE--    00:25:41.406
+Gabriella                                           [sì=sì=sì=sì=sì]
+                (0.40)
+RICERCATORE1    però particolari cose::: (0.51) nella tua zona:: non hai: 
+                non=non non hanno creato nulla:
+                (0.96)
+Gabriella       ((TC)) mm::-
+--TIMECODE--    00:25:50.520
+                (0.32)
+RICERCATORE1    forme di:-
+Gabriella       ↑n:on lo so:; forse:_mm (0.39) uh: mi pare che verso:: 
+                (0.40) l'inizio dell'estate scorsa:,
+RICERCATORE1    mm
+                (0.25)
+Gabriella       quindi alla fi:ne ((TC)) diciamo di: delle restrizioni pesanti
+--TIMECODE--    00:26:00.995
+                che s'erano: venute a: creare per:: il: (.) coronavirus,
+                (0.69) uhm::: (0.45) sempre qui a PLACENAME1, 
+                (0.26) ((TC)) uh:: verso (.) PLACENAME6 non so se
+--TIMECODE--    00:26:11.298
+RICERCATORE1    [sì; (.)sì=sì=sì]
+Gabriella       [conosci la zo] na, °h
+                (0.26) c'è stata: una protesta: dove: comunque: 
+                sono i[nter] venute d=due: ((TC)) sono intervenute--TIMECODE--    00:26:20.589
+RICERCATORE1          [ah]
+Gabriella       le: forze dell'ordine; (0.60) perché:: sono stati abbastanza 
+                violenti, hanno incendiato qualco:sa- =adesso non ricordo.
+                (0.62) però:::; ((TC)) comunque ricordo di essere ↑passata, e: di
+--TIMECODE--    00:26:30.606
+                aver visto questa: questa protesta in atto. (0.69) e:=mm:
+                era comunque abbastanza: violenta; (0.39) è uscita anche: 
+                ((TC)) sui giornali; comunque la notizia. (0.40) sui giornali
+--TIMECODE--    00:26:40.576
+                ovviamente del:=del ticino.
+                (2.98)
+RICERCATORE1    (      ) [(      )]
+Gabriella                [no no] no no non ho notato: 
+                (.) partico[lari:]
+RICERCATORE1               [<<laughing>non era l'ini]ziativa ((TC)) che:>
+--TIMECODE--    00:26:50.621
+                ((laughs)) 
+Gabriella       n:o: non era [l'iniz~]
+RICERCATORE1                 [<<laughing>che volevo] cè> ((laughs)) 
+                [((laughs)) non era un'iniziativa positiva ((laughs))]
+Gabriella       [<<laughing>no non è un'iniziativa a cui ho partecipa(to)>]
+                ((laughs)) esatto; esatto:; 
+RICERCATORE1    e in generale: allora:, (0.52) ((TC)) ma (.) ma anche perché
+--TIMECODE--    00:27:00.751
+                proprio hai vis:suto le due: (0.79) le due: cè (.) 
+                PLACENAME1 italia;=no, (0.27) come::: (0.33) un-
+                (0.37) così a caldo; ((TC)) un parere personale: su come: le
+--TIMECODE--    00:27:10.216
+                autorità ↑locali hanno gestito: questo periodo qui a 
+                PLACENAME1, (0.39)
+Gabriella       uh::=pf mm: bo forse::: l'hanno: ((TC)) vissuta in maniera
+--TIMECODE--    00:27:20.252
+                trop:po:: LIbera; cioè nel senso: (0.36) probabilmente 
+                era necessaria:: era necessaria la legge sull'uso della 
+                mascherina all'esterno; perché comunque- ((TC)) °h (0.17) uh:
+--TIMECODE--    00:27:30.872
+                non è nnormale che la gente vada: vada in giro: (0.27) e::
+                cammini senza mascherina; mentre invece::: in italia: ((TC)) sì;
+--TIMECODE--    00:27:40.352
+                (.) ad esempio; (0.67) op↑pure: non saprei. 
+                Comunque[:]
+RICERCATORE1            [mm] mm
+                (0.27)
+Gabriella       il fatto che non c'è stato: °h (.) un lockdown for↑zato; 
+                (0.76) ((TC)) nel senso che comunque si poteva uSCIIre;
+--TIMECODE--    00:27:50.492
+                (0.40) mentre invece in ↑italia- per: (0.24) adesso non mi
+                ricordo per quanto tempo. però (.) un paio di mesi il 
+                lockdown era forZAto; (0.12) °h bisognava: ((TC)) bisognava stare:
+--TIMECODE--    00:28:00.936
+                a ccasa: a casa e BASta; (0.26) una cosa che: ho apprezzato 
+                magari qua, è che comunque non è stato: inserito il: 
+                copriFUOco; magari; (1.30) ((TC)) mm: perché: magari:: (0.49)
+--TIMECODE--    00:28:10.912
+                adesso in italia: non so, quanto il: coprifuoco sia una 
+                legge Utile; perché alla fine la gente comunque esce- ((TC)) °hh
+--TIMECODE--    00:28:21.148
+                (0.66) n:onostante il copriFUOco. cè quello che f:aceva 
+                ddopo le dieci di sera- lo fa anche: alle due del pomeRIGgio 
+                adesso; (0.28) ((TC)) quindi comunque non è una legge abbastanza:
+--TIMECODE--    00:28:30.582
+                (.) sensata; questa. dal mio punto di vista; °h
+                (0.54) <<p>eh:> però comunque qui in svizzera si sono 
+                comportati in maniera: abbastanza strana; (0.37) ((TC)) mm:::
+--TIMECODE--    00:28:41.059
+                (0.32) quindi:: °h hanno fatto molte leggi contraddittorie,
+RICERCATORE1    mm
+                (0.50)
+Gabriella       e:=mm:: (0.49) mm: anche il fatto che ccomunque, adesso 
+                ((TC)) non SO; (0.89) perché hanno chiuso le frontiere, (0.14) o
+--TIMECODE--    00:28:50.479
+                pperché comunque le tengano ancora chiuse, °h (.) non so se 
+                è da parte dell'iTAlia, <<all>oppure dalla parte della 
+                svizzera;> ((TC)) questa volontà di tenere ancora chiuse le
+--TIMECODE--    00:29:00.257 
+                frontiere eccetera. °h ↑però neanche questo ha tanto senso; 
+                °h ovvero che comunque i frontalieri, attraversano la 
+                frontiera tutti i ggiorni per motivi lavorativi,
+                (0.22) ((TC)) mentre invece se: io voglio andare a ffarmi una
+--TIMECODE--    00:29:10.879
+                passeggiata a PLACENAME7 non posso; e devo avere (il) 
+                tampone:- °h uh: una certificazione:- eccetera (0.59) mm:
+                ((TC)) non è:: (0.64) n:on è ssensato; questo;=↑adesso non so;
+--TIMECODE--    00:29:20.378
+                (0.31) chi delle due parti abbia: °h (0.23) abbia più ppeso
+                in questa situazione; (0.51) però:: ((TC)) fatto sta che comunque
+--TIMECODE--    00:29:30.861
+                non è tanto: (0.23) non è ttanto comprensibile;
+                (0.26) ancora OGgi non capisco. (0.75) e spero, che::; 
+                comunque almeno le frontiere ((TC)) le possano aprire:: (1.38)
+--TIMECODE--    00:29:40.566 
+                mm veramente. (1.10) giusto per a=andare a: fare una 
+                passeggiata <<laughing>in italia>
+                ((laughs)) [((laughs))]
+RICERCATORE1               [andare a fare il] bagno nel lago di PLACENAME7,
+Gabriella       ((TC)) sì che è: [magari è meno melmoso <<laughing> di questo>]--TIMECODE--    00:29:50.395
+RICERCATORE1                     [((laughs))]
+                [<<laughing> non so (magari) quel>]<<laughing>lo;>
+Gabriella       [((lauhgs))]
+RICERCATORE1    ((laughs)) <<laughing>mi sa che qua tutti i laghi,>
+                (0.25)
+Gabriella       eh sì;
+                (0.86)
+RICERCATORE1    va bene. (1.19) ((TC)) (ancora,) (0.59) e:: (0.69) in generale
+--TIMECODE--    00:30:00.196
+                comunque: (0.69) mm::: parten~ e andando: invece::: non so 
+                (.) se poi tu appunto ((TC)) ti sei spostata anche all'interno
+--TIMECODE--    00:30:10.798
+                della svizzera; (0.52) eh::: come: (1.87) com'è stato=a:
+                ges↑tita secondo te: ((TC)) °h uh:: guardando appunto non:
+--TIMECODE--    00:30:20.419
+                soltanto al piccolo di PLACENAME1 ma: una prospettiva più 
+                ↑ampia del::: (0.66) dell'intero cantone, o dell'intera
+                svizzera; ((TC)) com'è stata gestita la pandemia::- anche le
+--TIMECODE--    00:30:31.236
+                regole che sono state adottate- (0.36) i tipi:::
+                (0.28) cè se c'è stato qualcosa:: ((TC)) verso cui sei
+--TIMECODE--    00:30:40.250
+                st=ver=qualche legge fedeRAle:- o: qualcosa; che:;
+                (0.69) [hai detto sono, (.) con]TRArio con con:
+Gabriella              [allora m:i cogli]
+                <<laughing>no; allora> <<laughing>mi co↑gli impreparata,>
+RICERCATORE1    ((TC)) mhm
+--TIMECODE--    00:30:50.405
+Gabriella       perché: io (0.22) mm: (0.13) quello che ti ho detto: e:::_mm 
+                sono opinioni: che::: (0.11) ho formulato in base a 
+                quello: (0.51) che ho vvisto. (0.58) ((TC)) sinceramente, non mi
+--TIMECODE--    00:31:01.512
+                sono interessata molto delle: delle leggi svizzere: delle 
+                leggi federa:li, nel cantone, oltre il cantone, °h comunque 
+                il mio sguardo: ((TC)) magari: è andato più sulla: sulla politica
+--TIMECODE--    00:31:11.042 
+                itaLIAna. per esempio.
+                (0.18)
+RICERCATORE1    mm
+                (0.13)
+Gabriella       però, comunque mm ↑anche se adesso: ci VIvo; sono quasi due 
+                anni che ci vivo; (0.31) non è che: ((TC)) m:agari mea culpa; però
+--TIMECODE--    00:31:20.683
+                comunque non è che mi sono: interessata particolarmente a: 
+                le leggi che hanno:: fatto QUI; (0.72) 
+                anche per[ché::]
+RICERCATORE1             [sì sì vol]l: in: geneRAle (o)
+                ((TC)) comunque la gestione [covid (xxx) (della pandemia)]--TIMECODE--    00:31:30.834
+Gabriella                                   [no non: non me ne sono interes]sata
+                sinceramente; (0.26) mea CULpa. ma: non: ((laughs))
+                (0.99) a prescindere che io dica pi~ di:=di politica 
+                ((TC)) comunque non è che: ne capisco tant[issimo.]--TIMECODE--    00:31:40.851 
+RICERCATORE1                                              [mhm]
+                (0.54)
+Gabriella       <<p>e:> e:: però: comunque sono: molto più: presa dalla 
+                vicenda italiana piuttosto che dalla vicenda: ((TC)) politica
+--TIMECODE--    00:31:50.800
+                svizzera;
+                (1.07)
+RICERCATORE1    allora; un commen<<laughing>tino,>
+                (0.61) <<laughing>qualc~ qualche opinione su 
+                quella italiana,> ((laughs)) (0.46)
+                ((laughs)) [((laughs))]
+Gabriella                  [<<laughing>e:] che giuseppe conte 
+                 non se ne deve- doveva andare dal governo;>
+RICERCATORE1    [((laughs))]
+Gabriella       [((laughs))] ((TC)) <<laughing>(quello) non: non doveva farlo.>
+--TIMECODE--    00:32:02.641
+                (0.69) vabbé son stati cattivi, (1.54) cè mi è
+                dis:piaciuto; perché comunque è stato::, ((TC)) °h un uomo
+--TIMECODE--    00:32:10.655
+                diligente, che ha dovuto fare delle se=secondo le (.) la mia 
+                opiNIOne; comunque è stato un uomo diligente che ha: dovuto 
+                fare delle scelte; per il bene del paese; eccetera; ((TC)) °h e
+--TIMECODE--    00:32:20.524
+                le ha fatte: molto bbene; penso. perché: sfido chiunque 
+                ad=a: stare al suo posto in quella situazione. (0.54) meno 
+                MAle che c'era lui; piuttosto che un <<laughing>a:ltro; 
+                ((TC)) a governare;> ((laughs)) <<laughing>tipo: salVIni o roba
+--TIMECODE--    00:32:30.676
+                del genere> ((laughs)) <<laughing>meno ↑Male che c'era 
+                giuseppe conte;> (0.33) adesso mario draghi sinceramente 
+                non: non so cosa sta combi↑NANdo ((TC)) però: dai speriamo che:
+--TIMECODE--    00:32:40.943
+                (1.03) comunque lo vedo una persona seria;
+                (0.82) l'importante, è che- mm: non c'è salvini: 
+                <<laughing>al capo del governo; poi ci possono stare tutti>
+                (0.49) ((TC)) ((laughs))
+--TIMECODE--    00:32:51.712
+                (2.97)
+RICERCATORE1    va be:ne direi che- (0.70) vediamo, (0.26) che o~ (0.21) 
+                quanto tempo abbiamo fatto,
+                (33.20)
+Gabriella       ha registr<<laughing>ato=ancora è> 
+                [<<laughing>lì> ((laughs))]
+RICERCATORE1    [sì: sì sì;] [vorre(i) capire-]
+Gabriella                    [(               )]
+                ((laughs))
+                (0.47)
+RICERCATORE1    se c'è; perché non=↑tu non hai visto l'ora in cui abbiamo 
+                iniziato;
+                (0.59)
+Gabriella       ((TC)) mm: no; (0.44) però penso che almeno una mezzoretta
+--TIMECODE--    00:33:41.724
+                l'abbiamo fatta. (6.38) ((TC)) di↑pende;=a↑desso che ore sono?
+--TIMECODE--    00:33:51.424
+                (2.48)
+RICERCATORE1    (forse ah non ah non) (0.50) non cambia, (0.47) il numero; 
+                undici e cinquantaTRE;
+                (0.80)
+Gabriella       ((TC)) beh se, comunque abbiamo iniziato verso le undici e dieci
+--TIMECODE--    00:34:01.129
+                perché io sono arriv[ata] qui alle dieci e cinquanta, 
+RICERCATORE1                        [mm]
+Gabriella       <<pp>e:>
+                (0.18)
+RICERCATORE1    <<p> ok: (1.35) va bene. possiamo- (0.56) ((TC)) fermarci allora.>
+--TIMECODE--    00:34:10.495
